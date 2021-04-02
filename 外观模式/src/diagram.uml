@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="111.0" y="105.0">Facade</node>
+    <node x="102.5" y="299.0">Test</node>
+    <node x="0.0" y="0.0">SubSystemA</node>
+    <node x="190.0" y="0.0">SubSystemB</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="Facade" target="SubSystemA">
+      <point x="-17.25" y="-72.0" />
+      <point x="162.75" y="75.0" />
+      <point x="127.5" y="75.0" />
+      <point x="42.5" y="27.5" />
+    </edge>
+    <edge source="Facade" target="SubSystemB">
+      <point x="17.25" y="-72.0" />
+      <point x="197.25" y="75.0" />
+      <point x="232.5" y="75.0" />
+      <point x="-42.5" y="27.5" />
+    </edge>
+    <edge source="Test" target="Facade">
+      <point x="38.75" y="-27.5" />
+      <point x="218.75" y="274.0" />
+      <point x="214.5" y="274.0" />
+      <point x="34.5" y="72.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="329.0" y="117.5" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

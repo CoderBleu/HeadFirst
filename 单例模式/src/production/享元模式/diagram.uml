@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="132.5" y="0.0">Flyweight</node>
+    <node x="0.0" y="260.0">ConcreteFlyweight</node>
+    <node x="0.0" y="403.0">FlyweightFactory</node>
+    <node x="219.0" y="260.0">UnsharedConcreteFlyweight</node>
+    <node x="292.0" y="403.0">Client</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="UnsharedConcreteFlyweight" target="Flyweight">
+      <point x="0.0" y="-49.0" />
+      <point x="346.5" y="235.0" />
+      <point x="268.25" y="235.0" />
+      <point x="45.25" y="105.0" />
+    </edge>
+    <edge source="ConcreteFlyweight" target="Flyweight">
+      <point x="0.0" y="-49.0" />
+      <point x="99.5" y="235.0" />
+      <point x="177.75" y="235.0" />
+      <point x="-45.25" y="105.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="329.0" y="315.5" />
+  <SelectedNodes>
+    <node>UnsharedConcreteFlyweight</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+    <Category>Constructors</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

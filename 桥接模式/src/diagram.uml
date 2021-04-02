@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="108.0" y="235.0">Red</node>
+    <node x="140.0" y="80.0">SmallPen</node>
+    <node x="0.0" y="80.0">MiddlePen</node>
+    <node x="50.0" y="155.0">Color</node>
+    <node x="92.0" y="0.0">Pen</node>
+    <node x="0.0" y="235.0">Green</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="Green" target="Color">
+      <point x="0.0" y="-15.0" />
+      <point x="44.0" y="210.0" />
+      <point x="72.0" y="210.0" />
+      <point x="-22.0" y="15.0" />
+    </edge>
+    <edge source="SmallPen" target="Pen">
+      <point x="0.0" y="-15.0" />
+      <point x="196.0" y="55.0" />
+      <point x="146.0" y="55.0" />
+      <point x="18.0" y="15.0" />
+    </edge>
+    <edge source="Red" target="Color">
+      <point x="0.0" y="-15.0" />
+      <point x="144.0" y="210.0" />
+      <point x="116.0" y="210.0" />
+      <point x="22.0" y="15.0" />
+    </edge>
+    <edge source="MiddlePen" target="Pen">
+      <point x="0.0" y="-15.0" />
+      <point x="60.0" y="55.0" />
+      <point x="110.0" y="55.0" />
+      <point x="-18.0" y="15.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.1999999999999997" x="218.53571428571422" y="158.38445378151255" />
+  <SelectedNodes />
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

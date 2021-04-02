@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="0.0" y="197.0">Folder</node>
+    <node x="132.5" y="0.0">Component</node>
+    <node x="262.0" y="220.0">File</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="File" target="Component">
+      <point x="0.0" y="-83.5" />
+      <point x="341.0" y="172.0" />
+      <point x="280.25" y="172.0" />
+      <point x="49.25" y="73.5" />
+    </edge>
+    <edge source="Folder" target="Component">
+      <point x="0.0" y="-106.5" />
+      <point x="121.0" y="172.0" />
+      <point x="181.75" y="172.0" />
+      <point x="-49.25" y="73.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="549.0" y="191.5" />
+  <SelectedNodes>
+    <node>File</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Methods</Category>
+    <Category>Fields</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

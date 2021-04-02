@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="10.5" y="139.5">Battercake</node>
+    <node x="293.2738095238095" y="290.5">SausageDecorator</node>
+    <node x="87.1547619047619" y="279.0">EggDecorator</node>
+    <node x="197.5" y="128.0">AbstractDecorator</node>
+    <node x="169.85714285714286" y="0.0">ABattercake</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="EggDecorator" target="AbstractDecorator">
+      <point x="55.666666666666686" y="-62.0" />
+      <point x="226.32142857142858" y="254.0" />
+      <point x="266.5" y="254.0" />
+      <point x="-23.0" y="50.5" />
+    </edge>
+    <edge source="AbstractDecorator" target="ABattercake">
+      <point x="61.333333333333314" y="-50.5" />
+      <point x="350.8333333333333" y="108.0" />
+      <point x="295.1071428571429" y="108.0" />
+      <point x="41.75" y="39.0" />
+    </edge>
+    <edge source="EggDecorator" target="ABattercake">
+      <point x="-55.66666666666663" y="-62.0" />
+      <point x="114.98809523809527" y="254.0" />
+      <point x="0.0" y="254.0" />
+      <point x="0.0" y="98.0" />
+      <point x="183.77380952380955" y="98.0" />
+      <point x="-69.58333333333331" y="39.0" />
+    </edge>
+    <edge source="Battercake" target="ABattercake">
+      <point x="0.0" y="-39.0" />
+      <point x="94.0" y="108.0" />
+      <point x="211.60714285714286" y="108.0" />
+      <point x="-41.75" y="39.0" />
+    </edge>
+    <edge source="SausageDecorator" target="AbstractDecorator">
+      <point x="0.0" y="-50.5" />
+      <point x="381.2738095238095" y="254.0" />
+      <point x="358.5" y="254.0" />
+      <point x="69.0" y="50.5" />
+    </edge>
+    <edge source="SausageDecorator" target="ABattercake">
+      <point x="58.66666666666666" y="-50.5" />
+      <point x="439.94047619047615" y="254.0" />
+      <point x="404.78571428571433" y="254.0" />
+      <point x="404.78571428571433" y="98.0" />
+      <point x="322.94047619047615" y="98.0" />
+      <point x="69.58333333333331" y="39.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="214.5" y="183.5" />
+  <SelectedNodes>
+    <node>ABattercake</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

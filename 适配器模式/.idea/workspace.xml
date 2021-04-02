@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="45223833-8e5f-4cf6-84e1-002307320613" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jqqypbnwrOPM8RfnnV1JNCvcUj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Diagrams" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="interface_adaptee" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\mine\设计模式" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Test (1)">
+    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interface_adaptee.Client" />
+      <module name="适配器模式" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interface_adaptee.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Client" />
+      <module name="适配器模式" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="装饰器模式" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="桥接模式" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Client (1)" />
+        <item itemvalue="Application.Client" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="45223833-8e5f-4cf6-84e1-002307320613" name="Default Changelist" comment="" />
+      <created>1604542226748</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604542226748</updated>
+      <workItem from="1604542228492" duration="11730000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="254" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604542239618">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="254" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1604542239618" />
+    <state x="605" y="133" key="#com.intellij.ide.util.MemberChooser" timestamp="1604557576745">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="605" y="133" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1604557576745" />
+    <state x="501" y="45" key="#com.intellij.refactoring.memberPullUp.PullUpDialog" timestamp="1604547016038">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="501" y="45" key="#com.intellij.refactoring.memberPullUp.PullUpDialog/0.0.1600.860@0.0.1600.860" timestamp="1604547016038" />
+    <state x="574" y="270" width="451" height="321" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1604555975356">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="574" y="270" width="451" height="321" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1600.860@0.0.1600.860" timestamp="1604555975356" />
+    <state x="530" y="176" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604545143742">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="530" y="176" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1600.860@0.0.1600.860" timestamp="1604545143742" />
+    <state x="441" y="142" key="FileChooserDialogImpl" timestamp="1604563364335">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="441" y="142" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1604563364335" />
+    <state width="1556" height="253" key="GridCell.Tab.0.bottom" timestamp="1604563365663">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="253" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1604563365663" />
+    <state width="1556" height="253" key="GridCell.Tab.0.center" timestamp="1604563365662">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="253" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1604563365662" />
+    <state width="1556" height="253" key="GridCell.Tab.0.left" timestamp="1604563365662">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="253" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1604563365662" />
+    <state width="1556" height="253" key="GridCell.Tab.0.right" timestamp="1604563365663">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="253" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1604563365663" />
+    <state width="1556" height="253" key="GridCell.Tab.1.bottom" timestamp="1604563365663">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="253" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1604563365663" />
+    <state width="1556" height="253" key="GridCell.Tab.1.center" timestamp="1604563365663">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="253" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1604563365663" />
+    <state width="1556" height="253" key="GridCell.Tab.1.left" timestamp="1604563365663">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="253" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1604563365663" />
+    <state width="1556" height="253" key="GridCell.Tab.1.right" timestamp="1604563365663">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="253" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1604563365663" />
+    <state x="280" y="4" key="SettingsEditor" timestamp="1604561601668">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="280" y="4" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1604561601668" />
+    <state x="174" y="8" key="new project wizard" timestamp="1604563355785">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="174" y="8" key="new project wizard/0.0.1600.860@0.0.1600.860" timestamp="1604563355785" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/../桥接模式/src/Red.java</url>
+          <line>6</line>
+          <properties class="Red" method="colour">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="41.375" y="210.0">factory_pattern.JavaVideoFactory</node>
+    <node x="161.70833333333331" y="0.0">factory_pattern.Video</node>
+    <node x="155.20833333333331" y="105.0">factory_pattern.VideoFactory</node>
+    <node x="284.4427083333333" y="210.0">factory_pattern.PythonVideoFactory</node>
+    <node x="0.0" y="105.0">factory_pattern.JavaVideo</node>
+    <node x="322.2083333333333" y="105.0">factory_pattern.PythonVideo</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="factory_pattern.PythonVideoFactory" target="factory_pattern.PythonVideo">
+      <point x="0.0" y="-27.5" />
+      <point x="380.4427083333333" y="185.0" />
+      <point x="390.2083333333333" y="185.0" />
+      <point x="0.0" y="27.5" />
+    </edge>
+    <edge source="factory_pattern.VideoFactory" target="factory_pattern.Video">
+      <point x="0.0" y="-27.5" />
+      <point x="0.0" y="27.5" />
+    </edge>
+    <edge source="factory_pattern.JavaVideo" target="factory_pattern.Video">
+      <point x="0.0" y="-27.5" />
+      <point x="67.0" y="75.0" />
+      <point x="175.10833333333335" y="75.0" />
+      <point x="-53.599999999999994" y="27.5" />
+    </edge>
+    <edge source="factory_pattern.JavaVideoFactory" target="factory_pattern.VideoFactory">
+      <point x="58.666666666666686" y="-27.5" />
+      <point x="188.04166666666669" y="185.0" />
+      <point x="191.95833333333331" y="185.0" />
+      <point x="-36.75" y="27.5" />
+    </edge>
+    <edge source="factory_pattern.PythonVideo" target="factory_pattern.Video">
+      <point x="0.0" y="-27.5" />
+      <point x="390.2083333333333" y="85.0" />
+      <point x="255.50833333333333" y="85.0" />
+      <point x="26.80000000000001" y="27.5" />
+    </edge>
+    <edge source="factory_pattern.PythonVideoFactory" target="factory_pattern.VideoFactory">
+      <point x="-64.0" y="-27.5" />
+      <point x="316.4427083333333" y="185.0" />
+      <point x="265.4583333333333" y="185.0" />
+      <point x="36.75" y="27.5" />
+    </edge>
+    <edge source="factory_pattern.PythonVideoFactory" target="factory_pattern.Video">
+      <point x="64.0" y="-27.5" />
+      <point x="444.4427083333333" y="185.0" />
+      <point x="468.7083333333333" y="185.0" />
+      <point x="468.7083333333333" y="75.0" />
+      <point x="282.3083333333333" y="75.0" />
+      <point x="53.599999999999966" y="27.5" />
+    </edge>
+    <edge source="factory_pattern.JavaVideoFactory" target="factory_pattern.JavaVideo">
+      <point x="-58.666666666666686" y="-27.5" />
+      <point x="70.70833333333331" y="185.0" />
+      <point x="67.0" y="185.0" />
+      <point x="0.0" y="27.5" />
+    </edge>
+    <edge source="factory_pattern.JavaVideoFactory" target="factory_pattern.Video">
+      <point x="0.0" y="-27.5" />
+      <point x="129.375" y="185.0" />
+      <point x="144.5" y="185.0" />
+      <point x="144.5" y="85.0" />
+      <point x="201.9083333333333" y="85.0" />
+      <point x="-26.80000000000001" y="27.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="334.0" y="117.5" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

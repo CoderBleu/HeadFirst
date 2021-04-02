@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="0.0" y="105.0">simple_factory.JavaVideo</node>
+    <node x="127.73333333333332" y="210.0">simple_factory.VideoFactory</node>
+    <node x="155.0" y="0.0">simple_factory.Video</node>
+    <node x="154.0" y="105.0">simple_factory.PythonVideo</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="simple_factory.VideoFactory" target="simple_factory.PythonVideo">
+      <point x="2.8421709430404007E-14" y="-39.0" />
+      <point x="218.23333333333335" y="185.0" />
+      <point x="222.0" y="185.0" />
+      <point x="0.0" y="27.5" />
+    </edge>
+    <edge source="simple_factory.JavaVideo" target="simple_factory.Video">
+      <point x="0.0" y="-27.5" />
+      <point x="67.0" y="80.0" />
+      <point x="177.33333333333337" y="80.0" />
+      <point x="-44.66666666666666" y="27.5" />
+    </edge>
+    <edge source="simple_factory.VideoFactory" target="simple_factory.Video">
+      <point x="60.33333333333334" y="-39.0" />
+      <point x="278.56666666666666" y="185.0" />
+      <point x="300.5" y="185.0" />
+      <point x="300.5" y="80.0" />
+      <point x="266.66666666666663" y="80.0" />
+      <point x="44.66666666666663" y="27.5" />
+    </edge>
+    <edge source="simple_factory.VideoFactory" target="simple_factory.JavaVideo">
+      <point x="-60.333333333333314" y="-39.0" />
+      <point x="157.9" y="185.0" />
+      <point x="67.0" y="185.0" />
+      <point x="0.0" y="27.5" />
+    </edge>
+    <edge source="simple_factory.PythonVideo" target="simple_factory.Video">
+      <point x="0.0" y="-27.5" />
+      <point x="0.0" y="27.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="334.0" y="94.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Properties</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
